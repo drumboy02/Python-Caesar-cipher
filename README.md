@@ -14,3 +14,6 @@ anagrams or not and returns the result.
 
 digit_of_life.py asks the user to enter their birthday in a specific format,
 sums all the digits and repeats until it returns exactly one digit.
+
+find_a_word.py prompts the user for a string and a hidden word to search the 
+string for and returns the result.
