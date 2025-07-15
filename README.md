@@ -17,3 +17,6 @@ sums all the digits and repeats until it returns exactly one digit.
 
 find_a_word.py prompts the user for a string and a hidden word to search the 
 string for and returns the result.
+
+sudoku.py reads the rows, columns, and sub-squares of the given sudoku
+puzzles, validates them and returns the result.
